@@ -1,2 +1,2 @@
 # Hacker Rank Solutions
-This repo will include the hackerank solutions of the problems I used to prepare for technical interviews.
+This repository contains my solutions to HackerRank challenges, curated from my preparation for technical interviews.
